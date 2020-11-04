@@ -1,4 +1,5 @@
-### Hi there 👋
+# Azura4k
+## C#, Java, and Frontend Web Developer
 
 <!--
 **azura4k/Azura4k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
