@@ -14,4 +14,6 @@
 
 - 🌱 I’m currently learning python and programing fundimentals and principles.
 
-- 📫 You can reach me through my email, azura4k@icloud.com
+- 📫 You can reach me through my channals
+ 1. ✉️ azura4k@icloud.com
+ 2. 📱 586.913.1254
