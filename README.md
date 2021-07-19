@@ -6,11 +6,9 @@
 -->
 - 💻 I am a Windows user but I plan on switching to Mac soon. I wouldn't call myself an Apple Fanboy, but their ecosystem suits my developer needs. I code in mostly Java, but I'm learning Java and I know a little bit of C#. 
 
-- 🎮 I love gaming (Minecraft and Genshin Impact). I play mostly playstation so add me if you want (Serengon4k).
+- 🎮 I love gaming (Minecraft and Genshin Impact). I play mostly playstation.
 
-- 🎧 I love music to but I'm to emberassed about my playlist to admit anything.
-
-- :	📺 I don't usually watch tv, but Youtube and Anime are things I adore.
+- 🎧 I love music.
 
 - 🌱 I’m currently learning python and programing fundimentals and principles.
 
