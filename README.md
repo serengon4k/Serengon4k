@@ -1,5 +1,5 @@
 # Azura4k
-## C#, Java, and Frontend Web Developer
+## Python and Frontend Web Developer
 - Greetings, and welcome to my github page. I'm Azura4k, a college students and eveloper looking to have fun coding while making cool projects that can help me out in the future as well.
 <!--
 **azura4k/Azura4k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
