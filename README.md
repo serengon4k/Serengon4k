@@ -10,7 +10,7 @@
 
 - 🎧 I love music.
 
-- 🌱 I’m currently learning python and programing fundimentals and principles.
+- 🌱 I’m currently in school, just learning and grinding
 
 - 📫 You can reach me through my channals
  1. ✉️ azura4k@icloud.com
