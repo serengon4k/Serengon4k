@@ -11,8 +11,3 @@
 - 🎧 I love music.
 
 - 🌱 I’m currently in school, just learning and grinding
-
-- 📫 You can reach me through my channals
- 1. ✉️ azura4k@icloud.com
- 2. 📱 586.913.1254
- 3. 💻 www.azura4k.com
